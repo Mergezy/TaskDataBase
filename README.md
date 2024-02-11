@@ -35,6 +35,3 @@
 ![изображение](https://github.com/Mergezy/TaskDataBase/assets/123715188/03ab05d6-ed65-4525-b20c-2cd49404bb22)
 ![изображение](https://github.com/Mergezy/TaskDataBase/assets/123715188/2135d9e3-cce8-48b6-8b45-d6410b2a023f)
 ![изображение](https://github.com/Mergezy/TaskDataBase/assets/123715188/82d593d3-b9d7-4655-9ca5-3cc68d335479)
-![изображение](https://github.com/Mergezy/TaskDataBase/assets/123715188/63e75f05-44f5-4ace-95bc-ca6ec48b274d)
-![изображение](https://github.com/Mergezy/TaskDataBase/assets/123715188/5b146d29-ad9f-4503-a178-0766e4f77ecf)
-![изображение](https://github.com/Mergezy/TaskDataBase/assets/123715188/8863da7a-0cb0-4f5a-b0a1-4cbb0e0f7b22)
