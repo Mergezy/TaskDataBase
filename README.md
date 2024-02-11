@@ -23,6 +23,9 @@
 
 [Android Studio ](https://developer.android.com/studio) — интегрированная среда разработки (IDE) для работы с платформой Android
 
+![SQLite370 svg](https://github.com/Mergezy/TaskDataBase/assets/123715188/17771782-f8b7-463a-8e6f-5c7a1e60143d)
+[SQLite](https://sqlite.org/index.html) - компактная встраиваемая СУБД.
+
 ## [Полная документация:](https://github.com/Mergezy/TaskDataBase/wiki)
 
 1. [Введение](https://github.com/Mergezy/TaskDataBase/wiki/Введение)
@@ -30,7 +33,8 @@
 3. [Цели и обзор системы](https://github.com/Mergezy/TaskDataBase/wiki//Цели-и-обзор-системы) / [Требования](https://github.com/Mergezy/TaskDataBase/wiki/Требования) / [Спецификация](https://github.com/Mergezy/TaskDataBase/wiki/Спецификация) 
 4. [Диаграммы](https://github.com/Mergezy/TaskDataBase/wiki/Диаграммы) / [Прецеденты](https://github.com/Mergezy/TaskDataBase/wiki/Прецеденты) / [Тест кейсы](https://github.com/Mergezy/TaskDataBase/wiki/Тест-кейсы) / [Макет приложения](https://github.com/Mergezy/TaskDataBase/wiki/Макет-приложения)
 5. [Обратная связь](https://github.com/Mergezy/TaskDataBase/wiki/Обратная-связь)
-
+## Разбработчик
+Разработчиком является [Амитров Денис](https://vk.com/dickheadz), студент (ИТ - колледжа) [Mergezy](https://github.com/Mergezy)
 ## Примеры работы приложения:
 ![изображение](https://github.com/Mergezy/TaskDataBase/assets/123715188/03ab05d6-ed65-4525-b20c-2cd49404bb22)
 ![изображение](https://github.com/Mergezy/TaskDataBase/assets/123715188/2135d9e3-cce8-48b6-8b45-d6410b2a023f)
