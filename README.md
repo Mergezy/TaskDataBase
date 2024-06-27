@@ -31,7 +31,7 @@
 1. [Введение](https://github.com/Mergezy/TaskDataBase/wiki/Введение)
 2. [Установка и запуск](https://github.com/Mergezy/TaskDataBase/wiki/Установка-и-запуск) / [Описание возможностей](https://github.com/Mergezy/TaskDataBase/wiki/Описание-возможностей)
 3. [Цели и обзор системы](https://github.com/Mergezy/TaskDataBase/wiki//Цели-и-обзор-системы) / [Требования](https://github.com/Mergezy/TaskDataBase/wiki/Требования) / [Спецификация](https://github.com/Mergezy/TaskDataBase/wiki/Спецификация) 
-4. [Диаграммы](https://github.com/Mergezy/TaskDataBase/wiki/Диаграммы) / [Прецеденты](https://github.com/Mergezy/TaskDataBase/wiki/Прецеденты) / [Тест кейсы](https://github.com/Mergezy/TaskDataBase/wiki/Тест-кейсы) / [Макет приложения](https://github.com/Mergezy/TaskDataBase/wiki/Макет-приложения)
+4. [Диаграммы](https://github.com/Mergezy/TaskDataBase/wiki/Диаграммы) / [Прецеденты](https://github.com/Mergezy/TaskDataBase/wiki/Прецеденты) / [Модульное тестирование](https://github.com/Mergezy/TaskDataBase/wiki/Модульное-тестирование) / [Интеграционное тестирование](https://github.com/Mergezy/TaskDataBase/wiki/Интеграционное-тестирование) / [Макет приложения](https://github.com/Mergezy/TaskDataBase/wiki/Макет-приложения)
 5. [Обратная связь](https://github.com/Mergezy/TaskDataBase/wiki/Обратная-связь)
 ## Разбработчик
 Разработчиком является [Амитров Денис](https://vk.com/dickheadz), студент (ИТ - колледжа) [Mergezy](https://github.com/Mergezy)
